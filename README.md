@@ -14,9 +14,13 @@
   - Post Graduate Diploma in Big Data Analytics.
 
 - 🧐 Skills:
-  - Java
-  - Python
   - SQL
+  - Python
+  - NumPy
+  - Pandas
+  - Sklearn
+  - Scikitlearn
+  - Tablue
   - Machine Learning
 
 - 🧙‍♂️ Experience:
