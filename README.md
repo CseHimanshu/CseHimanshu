@@ -10,7 +10,7 @@ I enjoy solving real-world problems using **Python, Large Language Models, and d
 Currently focused on growing into **LLM Engineering, RAG systems, and MLOps**.
 
 - 🔭 Currently working on: LLM-based data extraction pipelines  
-- 🌱 Currently learning: RAG • MLOps • LLM evaluation • PySpark  
+- 🌱 RAG • MLOps • LLM evaluation • PySpark  
 - 💡 Interested in: Applied AI, Automation, Data Engineering  
 - 🎯 Goal: Become an AI/LLM Engineer  
 
@@ -69,8 +69,8 @@ Currently focused on growing into **LLM Engineering, RAG systems, and MLOps**.
 ---
 
 ## 🎓 Education
-- **B.E. Computer Science** — Chandigarh University  
-- **PG Diploma in Big Data Analytics** — C-DAC Bengaluru  
+- **PG Diploma in Big Data Analytics** — C-DAC Bengaluru
+- **B.E. Computer Science** — Chandigarh University    
 
 ---
 
