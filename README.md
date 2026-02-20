@@ -1,83 +1,107 @@
 <h1 align="center">Hi 👋, I'm Himanshu Gupta</h1>
-<h3 align="center">AI & Data Engineer | LLM • Python • Data Pipelines</h3>
+<h3 align="center">Software Engineer — LLM & Generative AI</h3>
 
 ---
 
 ## 🚀 About Me
-Software Engineer building **LLM-powered data extraction systems and scalable data pipelines**.
 
-I enjoy solving real-world problems using **Python, Large Language Models, and data engineering**.  
-Currently focused on growing into **LLM Engineering, RAG systems, and MLOps**.
+I build **production-grade LLM systems** for enterprise document intelligence and data automation.
 
-- 🔭 Currently working on: LLM-based data extraction pipelines  
-- 🌱 RAG • MLOps • LLM evaluation • PySpark  
-- 💡 Interested in: Applied AI, Automation, Data Engineering  
-- 🎯 Goal: Become an AI/LLM Engineer  
+Currently working on:
+- 🔹 LLM-powered information extraction pipelines  
+- 🔹 Retrieval-Augmented Generation (RAG) systems  
+- 🔹 Agentic AI workflows for multi-step reasoning  
+- 🔹 Scalable AI automation on AWS  
+
+In my current role, I have:
+- ⚡ Reduced manual scripting effort by **40%**
+- ⚡ Improved document processing speed by **60%**
+
+I focus on designing **reliable, scalable, and evaluation-driven AI systems** — not just calling APIs.
+
+---
+
+## 🧠 Current Focus Areas
+
+- Retrieval-Augmented Generation (RAG)
+- LLM Evaluation & Hallucination Mitigation
+- Agentic AI Architectures
+- LLM Experimentation & Fine-Tuning Workflows
+- Scalable AI Pipelines & MLOps
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Databases
-- Python  
-- SQL  
+### 👨‍💻 Programming
+- Python
+- SQL
 
-### Data Engineering
-- Pandas  
-- NumPy  
-- PySpark  
-- ETL Pipelines  
-- Data Cleaning  
+### 🧩 Generative AI
+- Large Language Models (LLMs)
+- Prompt Engineering
+- LangChain
+- RAG Pipelines
+- Agentic AI Workflows
+- HuggingFace
 
-### AI / Machine Learning
-- Large Language Models (LLMs)  
-- Prompt Engineering  
-- LangChain  
-- Scikit-Learn  
+### 📊 Data Engineering
+- Pandas
+- NumPy
+- PySpark
+- ETL Pipelines
+- Document Processing & PDF Parsing
 
-### Tools
-- Git  
-- Jupyter Notebook  
-- VS Code  
+### ☁️ Cloud & Deployment
+- AWS SageMaker
+- AWS Bedrock
+- Docker
+- FastAPI (learning & building)
 
 ---
 
 ## 💼 Professional Experience
 
 ### Software Engineer — PointCross Life Sciences
-- Building **LLM-powered data extraction pipelines** for unstructured data  
-- Automating manual workflows using Python + Prompt Engineering  
-- Processing large-scale datasets and improving data reliability  
+
+- Designed and deployed LLM-powered extraction systems for unstructured scientific documents
+- Built RAG repositories to improve contextual accuracy and reduce hallucinations
+- Worked on model experimentation and tuning workflows using AWS SageMaker
+- Experimenting with agent-based architectures for intelligent document automation
+- Dockerized AI pipelines for scalable and reproducible deployment
 
 ---
 
-## 📌 Featured Projects (More Coming Soon)
+## 🚧 Featured & Upcoming Projects
 
-### 🔹 LLM Information Extraction System
-- Extract structured data from unstructured documents using LLMs  
-- Designed reusable prompt templates and processing pipelines  
+### 🔹 Advanced RAG System (In Progress)
+- Multiple chunking strategies
+- Retrieval evaluation benchmarking
+- Structured output validation
+- Confidence scoring
 
-### 🔹 Automated Data Pipeline Scripts
-- Built automation scripts for data cleaning and transformation  
-- Reduced manual data preparation effort  
+### 🔹 Agentic Document Intelligence System (In Progress)
+- Multi-step reasoning agent
+- Tool-calling workflows
+- Memory integration
+- Structured document output
 
-🚧 Currently building new projects on:
-- Retrieval Augmented Generation (RAG)  
-- LLM evaluation pipelines  
-- MLOps workflows  
+More coming soon — building in public 🚀
 
 ---
 
 ## 🎓 Education
-- **PG Diploma in Big Data Analytics** — C-DAC Bengaluru
-- **B.E. Computer Science** — Chandigarh University    
+
+- **PG Diploma in Big Data Analytics** — C-DAC Bengaluru  
+- **B.E. Computer Science** — Chandigarh University  
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
+
 📧 Email: **guptahimanshu.cse@gmail.com**  
-💼 LinkedIn: **https://www.linkedin.com/in/link-with-himanshu/**  
+💼 LinkedIn: https://www.linkedin.com/in/link-with-himanshu/  
 
 ---
 
-⭐ From [CseHimanshu](https://github.com/CseHimanshu)
+⭐ Exploring scalable, production-ready Generative AI systems.
